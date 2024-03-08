@@ -12,7 +12,7 @@ with open("README.md", "r", encoding='utf-8') as fh:
 
 setuptools.setup(
     name="pdfservices-sdk",
-    version="2.3.1",
+    version="2.3.2",
     author='Adobe Document Services',
     author_email='extractapi@adobe.com',
     license='Apache2',
